@@ -12,7 +12,6 @@ function App() {
           defaultPrompt="Why do monkies have hairy faces?"
           // onResultsChange={(results) => console.log('Research results:', results)}
       />
-      Something here
     </div>
   );
 }
